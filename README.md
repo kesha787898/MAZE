@@ -3,5 +3,7 @@
 Из-за использования скрипта,решения лабиринта раотает некорректно, если на компьютере не установлена библиотека PIL python.
 Решается установкой PIP и последующим
 pip install Pillow
+
+
 ![Иллюстрация к проекту](https://github.com/kesha787898/MAZE/blob/master/image.bmp)
 ![Иллюстрация к проекту](https://github.com/kesha787898/MAZE/blob/master/ans.jpg)
